@@ -1,5 +1,5 @@
 ### Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
 ## Your short description
 - 🔭 I’m currently working on - My B-Tech Degree
@@ -13,10 +13,10 @@
 <!-- Also feel free to update second URL to any URL -->
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranavk-official&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-<!-- ## Connect with me: -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+## Connect with me: 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br /> -->
+<br /> 
 
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
@@ -24,5 +24,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-<!-- [twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/ -->
+[twitter]: https://twitter.com/PranavK41523382
+[linkedin]: www.linkedin.com/in/pranav-k-898022194 
