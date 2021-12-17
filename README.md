@@ -25,4 +25,4 @@
 
 <!-- This section you create this variables that are used above -->
 [twitter]: https://twitter.com/PranavK41523382
-[linkedin]: www.linkedin.com/in/pranav-k-898022194 
+[linkedin]: https://www.linkedin.com/in/pranav-k-898022194 
