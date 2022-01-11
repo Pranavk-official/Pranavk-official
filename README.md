@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - Flutter
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - Linux , Anytime
-- 🥅 2021 Goal - Learn more about web app development
+- 🥅 2022 Goal - Learn more about web app development
 - ⚡ Fun fact - I'm fairly good with Google Dorking and Linux
 
 <!-- ❔❔❔❔ means username in below README.md -->
