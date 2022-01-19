@@ -1,4 +1,4 @@
-### Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=Pranavk-official&color=blueviolet">
+# Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=Pranavk-official&color=blueviolet">
 ---
 
 ## Short Description about ME.
