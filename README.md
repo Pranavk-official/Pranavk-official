@@ -24,5 +24,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[twitter]: https://twitter.com/PranavK41523382
+[twitter]: https://twitter.com/Pr4n4vkofficial
 [linkedin]: https://www.linkedin.com/in/pranav-k-898022194 
