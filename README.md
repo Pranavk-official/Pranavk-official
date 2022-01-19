@@ -1,7 +1,7 @@
 ### Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-## Your short description
+## Short Description about ME.
 - 🔭 I’m currently working on - My B-Tech Degree
 - 🌱 I’m currently learning - Flutter
 - 👯 I’m looking to collaborate with - Other developers in community.
