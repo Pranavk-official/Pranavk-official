@@ -1,5 +1,5 @@
 # Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=Pranavk-official&color=blueviolet">
----
+
 <!-- ## Short Description about ME. -->
 - 🔭 I’m currently working on - My B-Tech Degree
 - 🌱 I’m currently learning - Flutter
@@ -27,7 +27,7 @@
 [linkedin]: https://www.linkedin.com/in/pranav-k-898022194  
 [Instagram]: https://www.instagram.com/shadowgamer_4312
 [feed]: https://pranavk-official.tech//rss.xml 
-
+---
 <!-- Optional if you have blogs -->
 ## Latest blog posts: 
 <!-- BLOG-POST-LIST:START -->
