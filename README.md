@@ -27,10 +27,10 @@
 <!-- [twitter]: https://twitter.com/Pr4n4vkofficial
 [linkedin]: https://www.linkedin.com/in/pranav-k-898022194  -->
 
-<img align="left"  alt="Pr4n4vkofficial | Twitter" width="30px" style="padding-right: 10px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  /> [ Twitter ](https://twitter.com/Pr4n4vkofficial. )
+<img align="left"  alt="Pr4n4vkofficial | Twitter" width="30px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  /> [ Twitter ](https://twitter.com/Pr4n4vkofficial. )
 <br>
-<img align="left" alt="Pr4n4vkofficial | LinkedIn" width="30px" style="padding-right: 10px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />[ LinkedIn ](https://www.linkedin.com/in/pranav-k-898022194)
+<img align="left" alt="Pr4n4vkofficial | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />[ LinkedIn ](https://www.linkedin.com/in/pranav-k-898022194)
 <br>
-<img align="left" alt="shadowgamer_4312 | Instagram" width="30px" style="padding-right: 9px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  />[Instagram](https://www.instagram.com/shadowgamer_4312)
+<img align="left" alt="shadowgamer_4312 | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  />[Instagram](https://www.instagram.com/shadowgamer_4312)
 <br> 
 
