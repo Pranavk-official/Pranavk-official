@@ -14,9 +14,9 @@
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranavk-official&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ---
 ## Connect with me: 
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />  -->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<br /> 
 
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
@@ -24,13 +24,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-<!-- [twitter]: https://twitter.com/Pr4n4vkofficial
-[linkedin]: https://www.linkedin.com/in/pranav-k-898022194  -->
+[twitter]: https://twitter.com/Pr4n4vkofficial
+[linkedin]: https://www.linkedin.com/in/pranav-k-898022194  
 
-<img align="left"  alt="Pr4n4vkofficial | Twitter" width="30px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  /> [ Twitter ](https://twitter.com/Pr4n4vkofficial. )
+
+<!-- 
+<img align="left"  alt="Pr4n4vkofficial | Twitter" width="30px" style="padding-right: 10px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  /> [ Twitter ](https://twitter.com/Pr4n4vkofficial. )
 <br>
-<img align="left" alt="Pr4n4vkofficial | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />[ LinkedIn ](https://www.linkedin.com/in/pranav-k-898022194)
+<img align="left" alt="Pr4n4vkofficial | LinkedIn" width="30px" style="padding-right: 10px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />[ LinkedIn ](https://www.linkedin.com/in/pranav-k-898022194)
 <br>
-<img align="left" alt="shadowgamer_4312 | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  />[Instagram](https://www.instagram.com/shadowgamer_4312)
+<img align="left" alt="shadowgamer_4312 | Instagram" width="30px" style="padding-right: 9px; padding left: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  />[Instagram](https://www.instagram.com/shadowgamer_4312)
 <br> 
-
+ -->
