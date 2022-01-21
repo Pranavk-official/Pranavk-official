@@ -29,6 +29,6 @@
 [feed]: https://pranavk-official.tech//rss.xml 
 ---
 <!-- Optional if you have blogs -->
-## Latest blog posts: 
+<!-- ## Latest blog posts:  -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
