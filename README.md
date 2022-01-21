@@ -16,6 +16,7 @@
 ## Connect with me: 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 <br /> 
 
 <!-- Optional if you have blogs -->
@@ -26,6 +27,7 @@
 <!-- This section you create this variables that are used above -->
 [twitter]: https://twitter.com/Pr4n4vkofficial
 [linkedin]: https://www.linkedin.com/in/pranav-k-898022194  
+[Instagram]: https://www.instagram.com/shadowgamer_4312
 
 
 <!-- 
