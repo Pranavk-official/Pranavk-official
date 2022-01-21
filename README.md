@@ -14,8 +14,8 @@
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranavk-official&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ---
 ## Connect with me: 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 <br /> 
 
 <!-- Optional if you have blogs -->
