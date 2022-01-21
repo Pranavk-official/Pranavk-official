@@ -32,4 +32,7 @@
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts:  -->
 <!-- BLOG-POST-LIST:START -->
+- [How to install Cloudflare Warp on Arch Linux](https://pranavk-official.tech/posts/post-2/)
+- [My Top 5 Favorite GNU/Linux Distribution](https://pranavk-official.tech/posts/post-1/)
+- [First Post](https://pranavk-official.tech/posts/post-0/)
 <!-- BLOG-POST-LIST:END -->
