@@ -11,7 +11,13 @@
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Pranavk-official&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
 ---
+
+[![An image of @sg4lyf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sg4lyf)](https://holopin.io/@sg4lyf)
+
+---
+
 ## Connect with me: 
 [<img align="left" alt="Pranav K | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="Pranav K | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
