@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Pranav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> <img align="right" src="https://komarev.com/ghpvc/?username=Pranavk-official&color=blueviolet">
 
 <!-- ## Short Description about ME. -->
-- 🔭 I’m currently working on - My B-Tech Degree
+- 🔭 I’m currently working on - My Skill development for carreer
 - 🌱 I’m currently learning - MERN Stack
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - Linux , Anytime
-- 🥅 2024 Goal - Learn Full Stack Development
+- 🥅 2024 Goal - Learn Full Stack Development - ( partially done)
 - ⚡ Fun fact - I'm fairly good with Google Dorking and Linux
 
 <!-- ❔❔❔❔ means username in below README.md -->
