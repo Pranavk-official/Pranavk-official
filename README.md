@@ -46,15 +46,19 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### Holopin Badges
-
-[![An image of @sg4lyf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sg4lyf)](https://holopin.io/@sg4lyf)
-
 ---
 
 ### 📊 Stats
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavk-official&show_icons=true&theme=nord)
+
+---
+
+### Holopin Badges
+
+[![An image of @sg4lyf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sg4lyf)](https://holopin.io/@sg4lyf)
+
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
@@ -76,7 +80,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ---
 
 <!-- Optional if you have blogs -->
-## Latest Blog Posts:  
+### Latest Blog Posts:  
 <!-- BLOG-POST-LIST:START -->
 - [How to install Cloudflare Warp on Arch Linux](https://pranavk-official.tech/posts/post-2/)
 - [My Top 5 Favorite GNU/Linux Distribution](https://pranavk-official.tech/posts/post-1/)
