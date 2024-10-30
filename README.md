@@ -2,6 +2,8 @@
 
 **`Self Proclaimed Bug Hunter(Developer / Artist ? / FOSS Enthusiast)`**
 
+I'm an Experienced Fullstack Developer proficient in JavaScript and TypeScript. Currently freelancing with expertise in web development using frameworks like React.js, Next.js, and Node.js. Committed to delivering high-quality projects with precision and efficiency.
+
 <!--
 [TODO]: add bio description
 
